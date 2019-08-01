@@ -1,0 +1,35 @@
+
+#maincontainer{
+    margin:20px 0px
+}
+#heading{
+    float:left;
+    margin-right:30px;
+    font-size: 26px;
+    font-weight: 700;
+    color: #47525E;
+}
+#button{
+    font-size: 18px;
+    background: #47525E;
+    border-radius: 5px;
+    color: #fff;
+    height: 45px;
+    width: 70%;
+    border-color: #47525E;
+}
+
+.mainChilds{
+    height:80px;
+    background:white;
+    margin-bottom:10px;
+    padding:15px;
+    margin-top:20px
+}
+
+.closeIcon{
+    float:right;
+    font-size:35px;
+    margin-right:20px;
+    cursor:pointer
+}

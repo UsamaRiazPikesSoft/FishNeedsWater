@@ -1,0 +1,23 @@
+
+
+.ant-layout-header {
+    padding: 0px;
+  } 
+  
+  .ant-tabs-nav .ant-tabs-tab-active {
+  
+  color: black;
+  background: #E5E9F2;
+    }
+    .ant-tabs {
+     width: 70%;
+     float: left;
+    }
+
+   
+  .ant-tabs-nav-container {
+      line-height: 3.5
+    }
+  .ant-tabs-nav .ant-tabs-tab {
+    margin: 0px;
+    }

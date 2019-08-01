@@ -1,0 +1,14 @@
+
+  #messageInput{
+    width: 500px;
+    height: 60px;
+    color: #ABABAB;
+    border: unset;
+    font-size: 20px;
+    background: #fff;
+  }
+
+  #messageInput:focus{
+    border: unset;
+    
+  }

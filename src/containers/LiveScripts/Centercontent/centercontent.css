@@ -1,0 +1,31 @@
+
+
+#center_main_container{
+
+    display:flex;
+    flex-direction:column;
+    border-bottom:1px solid rgba(81, 81, 81, 0.3);
+    margin-top:30px;
+    font-size:26px;
+    font-weight:700;
+   
+}
+#event_heading{
+    float:left;
+    font-size:18px;
+    font-weight:700;
+    margin-bottom: 5px
+}
+
+.eventdiv{
+    margin-bottom:20px;
+    background:#ffffff;
+    height:130px
+}
+.paragraph{
+    font-size:16px;
+    padding:5px;
+    clear:both;
+    margin-left:25px;
+    line-height: 1.2
+}

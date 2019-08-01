@@ -1,0 +1,51 @@
+
+
+#mybutton:hover{
+    background-color: unset;
+    color:black
+}
+#heading_add{
+    font-size:40px;
+    font-weight:700;
+    color:#47525E;
+}
+#paragraph{
+    font-size:18px;
+    color:#8190A5;
+}
+#main{
+    text-align:center;
+    padding: 40px 60px 60px 60px
+}
+#modalheader{
+    border-bottom: unset
+}
+#CreateButton{
+    text-align: center;
+    width:58%;
+    color: #fff;
+    margin: 10px;
+    background-color: #47525E;
+    border-radius: 5px;
+    height: 40px;
+}
+.Input{
+    margin-top:10px;
+    margin-bottom:10px;
+    border-color: #8492A6;
+    border-radius: 5px;
+    color: #8190A5;
+    width: auto;
+    height: 40px;
+}
+.selectRole {
+    width: 200px;
+    text-align: left;
+    color: #8190A5;   
+}
+
+.ant-select-selection--single{
+    height: 40px;
+    padding: 3px;
+    border-color: #8492A6;
+}

@@ -1,0 +1,23 @@
+
+
+ .ant-row{
+    background: transparent;
+    border: 0;
+  }
+  #searchInput {
+    width: 323px;
+    height: 40px;
+    background: #F9F9F9;
+    color: #ABABAB;
+  }
+
+  .ant-list-item-meta-title {
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    
+  }
+  .ant-list-item-meta-description {
+    font-size: 12px;
+  }
